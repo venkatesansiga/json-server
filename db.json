@@ -1,0 +1,95 @@
+{
+  "tasks": [
+    {
+      "id": "10001",
+      "title": "Uninstall the unused apps",
+      "description": "Go through all the apps usage and delete the applications that are not used for the last 3 months. Make sure the related user preference caches and cookies from the machine",
+      "isDone": true,
+      "createdBy": "50002"
+    },
+    {
+      "id": "10002",
+      "title": "Buy Veggies",
+      "description": "-- Vegetables to buy --\n1. Tomatoes - 1 KG\n2. Potatoes - 1/2 KG\n3. Onions - 1/4 KG",
+      "isDone": true,
+      "createdBy": "50002"
+    },
+    {
+      "id": "10003",
+      "title": "Clean the room",
+      "description": "Clean your messed up room by today",
+      "isDone": false,
+      "createdBy": "50001"
+    },
+    {
+      "title": "Panda 1 - updated",
+      "description": ".a,a.a...",
+      "isDone": true,
+      "id": "8ocJruN"
+    },
+    {
+      "title": "Kill Batman",
+      "description": "ASAP",
+      "isDone": true,
+      "id": "4HkvhZT"
+    },
+    {
+      "title": "Wipe the phone's memory",
+      "description": "",
+      "isDone": true,
+      "id": "yU63dcc"
+    },
+    {
+      "title": "Buy GTX 3090",
+      "description": "",
+      "isDone": true,
+      "id": "L3m3CEN"
+    },
+    {
+      "title": "!!!",
+      "description": "____",
+      "isDone": true,
+      "id": "ZZuN5Q2"
+    }
+  ],
+  "users": [
+    {
+      "id": "50001",
+      "username": "jon",
+      "firstname": "Jon",
+      "lastname": "Snow",
+      "title": "The White Wolf"
+    },
+    {
+      "id": "50002",
+      "username": "danaerys",
+      "firstname": "Danaerys",
+      "lastname": "Targaryan",
+      "title": "The Breaker of Chains, Mother of Dragon"
+    },
+    {
+      "id": "50003",
+      "username": "tyrion",
+      "firstname": "Tyrion",
+      "lastname": "Lannister",
+      "title": "The imp",
+      "tasks": []
+    },
+    {
+      "id": "50004",
+      "username": "azor",
+      "firstname": "Azor",
+      "lastname": "Ahai",
+      "title": "The Legendary Hero",
+      "tasks": []
+    },
+    {
+      "id": "50005",
+      "username": "jamie",
+      "firstname": "Jamie",
+      "lastname": "Lannister",
+      "title": "King's Bodygaurd",
+      "tasks": []
+    }
+  ]
+}
