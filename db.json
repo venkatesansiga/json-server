@@ -10,7 +10,7 @@
     {
       "id": "10002",
       "title": "Buy Veggies",
-      "description": "-- Vegetables to buy --\n1. Tomatoes - 1 KG\n2. Potatoes - 1/2 KG\n3. Onions - 1/4 KG",
+      "description": "-- Vegetables to buy --\n1. Tomatoes - 1 KG\n2. Potatoes - 1/2 KG\n3. Onions - 1/4 KG\n4. Beans - 1/2 KG",
       "isDone": true,
       "createdBy": "50002"
     },
